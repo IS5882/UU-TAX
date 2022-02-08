@@ -1,2 +1,2 @@
 # UU-TAX
-UU-TAX ar SemEval2022 Task 3
+UU-TAX at SemEval2022 Task 3
