@@ -3,7 +3,7 @@
 
 
 [![SemEval](https://img.shields.io/badge/SemEval-PreTENS-blue)](https://sites.google.com/view/semeval2022-pretens/home-page)
-[![Paper](https://img.shields.io/badge/Paper-UU--Tax(Coming Soon)-red)]
+[![Paper](https://img.shields.io/badge/Paper-UU--Tax--Coming--soon-red)]
 
 
 ### Model Description
