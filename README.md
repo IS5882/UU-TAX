@@ -66,7 +66,7 @@ Please cite UU-Tax if you use any of this material in your work.
 
 #### Implementation Refrences:
 * Hugging face link of all pretrained models https://huggingface.co/transformers/v2.3.0/pretrained_models.html 
-* [NLPAug](https://nlpaug.readthedocs.io/en/latest/) was used to for data-augmentation for experminets in both sub-tasks. (https://arxiv.org/pdf/1409.0473.pdf). Towards Data Science 
+* [NLPAug](https://nlpaug.readthedocs.io/en/latest/) was used to for data-augmentation for experminets in both sub-tasks. 
 * Translation was obtained from GoogleTranslation API (made on Google-Sheets, as the GoogleTranslate Python API limits the translation to 10K chars / 24 hrs.
 
 
