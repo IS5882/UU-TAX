@@ -3,7 +3,7 @@
 
 
 [![SemEval](https://img.shields.io/badge/SemEval-PreTENS-blue)](https://sites.google.com/view/semeval2022-pretens/home-page)
-[![Paper](https://img.shields.io/badge/Paper-UU--Tax-red)](add link)
+[![Paper](https://img.shields.io/badge/Paper-UU--Tax(Coming Soon)-red)]
 
 
 ### Model Description
@@ -61,8 +61,7 @@ Translated data for sub-tasks 1 and 2 is uploaded in the 'Translation Data' fold
 ### Citing:
 Please cite UU-Tax if you use any of this material in your work.
 
-[Add citation]
-
+(Coming Soon)
 
 #### Implementation Refrences:
 * Hugging face link of all pretrained models https://huggingface.co/transformers/v2.3.0/pretrained_models.html 
