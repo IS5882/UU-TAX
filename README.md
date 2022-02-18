@@ -41,7 +41,7 @@ A model was trained for each language.
 
 ### Datasets
 
-For the original training dataset files please refer to the SemEval-2022: ([GitHub](https://github.com/shammur/SemEval2022Task3)).
+For the original training dataset files please refer to the SemEval-2022: PreTENS [GitHub](https://github.com/shammur/SemEval2022Task3).
 
 NLPAug data that was used for sub-task 1 for all 3 languages is uploaded in the 'NLPAug Data' folder.
 
