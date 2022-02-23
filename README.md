@@ -1,5 +1,5 @@
 # UU-Tax
-## UU-Tax at SemEval-2022 Task 3: Towards improving the generalizability of language models for taxonomy classification through data augmentation.
+## UU-Tax at SemEval-2022 Task 3: Improving the generalizability of language models for taxonomy classification through data augmentation.
 
 
 [![SemEval](https://img.shields.io/badge/SemEval-PreTENS-blue)](https://sites.google.com/view/semeval2022-pretens/home-page)
