@@ -3,7 +3,7 @@
 
 
 [![SemEval](https://img.shields.io/badge/SemEval-PreTENS-blue)](https://sites.google.com/view/semeval2022-pretens/home-page)
-[![Paper](https://img.shields.io/badge/Paper-UU--Tax--Coming--soon-red)]
+[![Paper](https://img.shields.io/badge/Paper-UU-TAX)](https://aclanthology.org/2022.semeval-1.35/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Injy%20Sarhan-yellow)](https://scholar.google.nl/citations?user=Otq5vX0AAAAJ&hl=nl)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Injy%20Sarhan-brightgreen)](https://linkedin.com/in/injy-sarhan-03294295)
 
@@ -62,7 +62,24 @@ Translated data for sub-tasks 1 and 2 is uploaded in the 'Translation Data' fold
 ### Citing:
 Please cite UU-Tax if you use any of this material in your work.
 
-(Coming Soon)
+
+```
+@inproceedings{sarhan-etal-2022-uu,
+    title = "{UU}-Tax at {S}em{E}val-2022 Task 3: Improving the generalizability of language models for taxonomy classification through data augmentation",
+    author = "Sarhan, Injy  and
+      Mosteiro, Pablo  and
+      Spruit, Marco",
+    booktitle = "Proceedings of the 16th International Workshop on Semantic Evaluation (SemEval-2022)",
+    month = jul,
+    year = "2022",
+    address = "Seattle, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.semeval-1.35",
+    pages = "271--281",
+    abstract = "This paper presents our strategy to address the SemEval-2022 Task 3 PreTENS: Presupposed Taxonomies Evaluating Neural Network Semantics. The goal of the task is to identify if a sentence is deemed acceptable or not, depending on the taxonomic relationship that holds between a noun pair contained in the sentence. For sub-task 1{---}binary classification{---}we propose an effective way to enhance the robustness and the generalizability of language models for better classification on this downstream task. We design a two-stage fine-tuning procedure on the ELECTRA language model using data augmentation techniques. Rigorous experiments are carried out using multi-task learning and data-enriched fine-tuning. Experimental results demonstrate that our proposed model, UU-Tax, is indeed able to generalize well for our downstream task. For sub-task 2 {---}regression{---}we propose a simple classifier that trains on features obtained from Universal Sentence Encoder (USE). In addition to describing the submitted systems, we discuss other experiments that employ pre-trained language models and data augmentation techniques. For both sub-tasks, we perform error analysis to further understand the behaviour of the proposed models. We achieved a global F1{\$}Binary{\$} score of 91.25{\%} in sub-task 1 and a rho score of 0.221 in sub-task 2.",
+}
+
+```
 
 #### Implementation Refrences:
 * Hugging face link of all pretrained models https://huggingface.co/transformers/v2.3.0/pretrained_models.html 
