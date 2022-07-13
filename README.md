@@ -3,7 +3,7 @@
 
 
 [![SemEval](https://img.shields.io/badge/SemEval-PreTENS-blue)](https://sites.google.com/view/semeval2022-pretens/home-page)
-[![Paper](https://img.shields.io/badge/Paper-UU-TAX)](https://aclanthology.org/2022.semeval-1.35/)
+[![Paper](https://img.shields.io/badge/Paper-UU-TAX-red)](https://aclanthology.org/2022.semeval-1.35/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Injy%20Sarhan-yellow)](https://scholar.google.nl/citations?user=Otq5vX0AAAAJ&hl=nl)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Injy%20Sarhan-brightgreen)](https://linkedin.com/in/injy-sarhan-03294295)
 
